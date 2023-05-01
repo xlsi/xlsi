@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David
-- 👀 I’m interested in NLP, Rommendation System, and Time Series
+- 👀 I’m interested in NLP, Recommendation System, and Time Series
 - 🌱 I’m stepping into finance industry to apply what I've learned
 - 💞️ Find my own way, my own language!
 
